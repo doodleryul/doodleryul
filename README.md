@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Rimiiii%20log&type=soft&fontSie=80&color=auto&animation=twinkling!)
+![header](https://capsule-render.vercel.app/api?text=Rimiiii%20Log&type=soft&fontSie=80&color=auto&animation=twinkling)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
