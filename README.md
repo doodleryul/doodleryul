@@ -1,5 +1,6 @@
 <h3> ✨ Me ✨ </h3>
 <p>
+  <img src="![inside-out-hi](https://user-images.githubusercontent.com/76838077/181680670-a7e65890-fc4e-46fc-b89a-58c66a8410c2.gif)">
   <a href="https://rimiiii.github.io"><img src="https://img.shields.io/badge/Tech%20Blog-orange?style=flat-square&logo=Github&logoColor=white&link=https://rimiiii.github.io"/></a>&nbsp
   <a href="https://www.instagram.com/rimiiii_u/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rimiiii_u"/></a>&nbsp
   <a href="mailto:rimiiii.u@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rimiiii.u@gmail.com"/></a>&nbsp
