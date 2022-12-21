@@ -1,4 +1,4 @@
-### Hi Hello Hey there ✨ 
+### Hi Hello Hey there Hope All is Well ✨ 
 [![tech blog badge](https://img.shields.io/badge/Tech%20Blog-8066F3?style=flat-square&logo=Github&logoColor=white&link=https://rimiiii.github.io/)](https://doodleryul.github.io)
 [![instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rimiiii_u)](https://www.instagram.com/rimiiii_u/)
 [![spotify badge](https://img.shields.io/badge/spotify-1DB954?style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/user/31pxeueydqcrri4klsx73pztj2ay)](https://open.spotify.com/user/31pxeueydqcrri4klsx73pztj2ay)
