@@ -12,5 +12,5 @@
 - Sequential Generative Model
 - Weakly Supervised Learning
 - Music Generation
-- Computer Vision
+- Applicable Computer Vision
 
