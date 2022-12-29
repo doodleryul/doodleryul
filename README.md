@@ -14,3 +14,9 @@
 - Music Generation
 - Applicable Computer Vision
 
+### 👩🏻‍🏫 Recent Posts
+- [git branch pull하기](https://doodleryul.github.io/dev/2022-12-23-16-git-pull-branch/)
+- [music21에서 musescore4 사용하기](https://doodleryul.github.io/dev/2022-12-23-15-music21/)
+- [vscode에서 jupyter pythonpath 설정하기](https://doodleryul.github.io/dev/2022-12-11-14-vscode-pythonpath/)
+- [분류 모델 성능 지표 kappa score가 뭘까?](https://doodleryul.github.io/dev/2022-12-09-13-kappa-score/)
+- [KL divergence 살펴보기](https://doodleryul.github.io/dev/2022-11-25-12-kl-div/)
