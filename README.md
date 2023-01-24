@@ -15,6 +15,7 @@
 - Applicable Computer Vision
 
 ### 👩🏻‍🏫 Recent Posts
+- [이제는 docker를 해야할 때..](https://doodleryul.github.io/dev/2023-01-24-docker/)
 - [git branch pull하기](https://doodleryul.github.io/dev/2022-12-23-16-git-pull-branch/)
 - [music21에서 musescore4 사용하기](https://doodleryul.github.io/dev/2022-12-23-15-music21/)
 - [vscode에서 jupyter pythonpath 설정하기](https://doodleryul.github.io/dev/2022-12-11-14-vscode-pythonpath/)
