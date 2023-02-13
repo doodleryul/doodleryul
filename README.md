@@ -11,7 +11,7 @@
 ### 👩🏻‍🎓 Research Area
 - Sequential Generative Model
 - Weakly Supervised Learning
-- Music Generation
+- Music Information Retrieval
 - Applicable Computer Vision
 
 ### 👩🏻‍🏫 Recent Posts
