@@ -15,9 +15,9 @@
 - Applicable Computer Vision
 
 ### 👩🏻‍🏫 Recent Posts
+- [딥러닝에 필요한 확률 살짝 찍어먹기, 최대우도법](https://doodleryul.github.io/project/2023-02-10-vae-2/)
+- [이해하면 쉬운 베이즈 정리와 VAE](https://doodleryul.github.io/project/2023-01-20-vae-1/)
 - [이제는 docker를 해야할 때..](https://doodleryul.github.io/dev/2023-01-24-docker/)
-- [git branch pull하기](https://doodleryul.github.io/dev/2022-12-23-16-git-pull-branch/)
 - [music21에서 musescore4 사용하기](https://doodleryul.github.io/dev/2022-12-23-15-music21/)
-- [vscode에서 jupyter pythonpath 설정하기](https://doodleryul.github.io/dev/2022-12-11-14-vscode-pythonpath/)
 - [분류 모델 성능 지표 kappa score가 뭘까?](https://doodleryul.github.io/dev/2022-12-09-13-kappa-score/)
 - [KL divergence 살펴보기](https://doodleryul.github.io/dev/2022-11-25-12-kl-div/)
