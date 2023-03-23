@@ -15,6 +15,7 @@
 - Applicable Computer Vision
 
 ### 👩🏻‍🏫 Recent Posts
+- [dataframe의 거의 모든 것](https://doodleryul.github.io/dev/2023-03-23-dataframe/)
 - [딥러닝에 필요한 확률 살짝 찍어먹기, 최대우도법](https://doodleryul.github.io/project/2023-02-10-vae-2/)
 - [이해하면 쉬운 베이즈 정리와 VAE](https://doodleryul.github.io/project/2023-01-20-vae-1/)
 - [이제는 docker를 해야할 때..](https://doodleryul.github.io/dev/2023-01-24-docker/)
