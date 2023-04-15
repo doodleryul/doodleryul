@@ -9,12 +9,13 @@
 - Machine Learning Engineer on a Mobile Healthcare area
 
 ### 👩🏻‍🎓 Research Area
-- Sequential Generative Model
-- Weakly Supervised Learning
+- Generative Model
 - Music Information Retrieval
 - Applicable Computer Vision
+- Recommender System
 
 ### 👩🏻‍🏫 Recent Posts
+- [FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence](https://doodleryul.github.io/dev/2023-04-06-fixmatch/)
 - [GCP에 업로드한 이미지가 변했다](https://doodleryul.github.io/dev/2023-03-29-image-format/)
 - [dataframe의 거의 모든 것](https://doodleryul.github.io/dev/2023-03-23-dataframe/)
 - [딥러닝에 필요한 확률 살짝 찍어먹기, 최대우도법](https://doodleryul.github.io/projects/2023-02-10-vae-2/ )
