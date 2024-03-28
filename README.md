@@ -6,7 +6,7 @@
 [![hits badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoodleryul&count_bg=%233D89C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ---
 ### 👩🏻‍💻 Work Area
-- Machine Learning Engineer on a Mobile Healthcare area
+- Machine Learning Engineer on a Mobile app for contents, community, commerce area
 
 ### 👩🏻‍🎓 Research Area
 - Generative Model
